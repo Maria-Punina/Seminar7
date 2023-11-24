@@ -9,7 +9,25 @@
 // M = 1; N = 5 -> "1, 2, 3, 4, 5" 
 // M = 4; N = 8 -> "4, 5, 6, 7, 8" 
 
+Console.WriteLine("Введите значение М");
+int M = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите значение N");
+int N = Convert.ToInt32(Console.ReadLine());
 
-
-
-
+int NaturalNumbers(int numberM, int numberN)
+{
+    if(numberM > numberN) 
+    {
+        int numberX = numberM; 
+        numberM = numberN; 
+        numberN = numberX; 
+    }
+    if(numberM == numberN ) 
+    {
+         return numberN;           
+    }
+    Console.Write($"{numberM}, ");
+    return NaturalNumbers(numberM += 1 ,numberN);     
+}
+Console.WriteLine("Ответ");
+Console.Write($"{NaturalNumbers(M ,N)}");

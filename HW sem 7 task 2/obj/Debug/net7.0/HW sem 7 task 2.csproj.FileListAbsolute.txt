@@ -1,0 +1,14 @@
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\bin\Debug\net7.0\HW sem 7 task 2.exe
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\bin\Debug\net7.0\HW sem 7 task 2.deps.json
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\bin\Debug\net7.0\HW sem 7 task 2.runtimeconfig.json
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\bin\Debug\net7.0\HW sem 7 task 2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\bin\Debug\net7.0\HW sem 7 task 2.pdb
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.AssemblyInfoInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.AssemblyInfo.cs
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.csproj.CoreCompileInputs.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\refint\HW sem 7 task 2.dll
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.pdb
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\HW sem 7 task 2.genruntimeconfig.cache
+C:\Users\punin\Desktop\GeekBrains\Разработчик. Основной блок\1 четверть\Языки программирования (семинары)\7_18.11.2023\ДЗ к семинару 7\Seminar7\HW sem 7 task 2\obj\Debug\net7.0\ref\HW sem 7 task 2.dll
